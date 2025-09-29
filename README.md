@@ -4,17 +4,24 @@ Intelligent Chrome extension for universal form filling. Built by someone who fi
 
 ## 🚀 What FormWise Does
 
-### Instant Form Filling
-- **Right-click any form field** to see your saved data
-- **One-click filling** with your personal information
-- **Works on any website** - competitions, job applications, checkout forms
-- **No setup required** - starts working immediately
-
-### Smart Learning System
-- **Learns as you go** - remembers your corrections and preferences
-- **Gets smarter over time** - improves accuracy with each use
+### 1. Smart Auto-Fill (Zero Setup)
+- **Automatic form filling** - learns from your typing and fills forms automatically
+- **Works immediately** - no configuration required, starts learning from day one
+- **Gets smarter over time** - remembers your corrections and improves accuracy
 - **Site-specific memory** - adapts to different websites automatically
 - **Intelligent confidence** - only fills when confident to avoid mistakes
+
+### 2. Context Menu Filling (Requires Setup)
+- **Right-click any form field** to see your saved data options
+- **One-click filling** with pre-configured personal information
+- **Custom field organization** - add company, job title, or any data you use
+- **Quick access** - instantly fill fields with your stored values
+
+### 3. Floating Panel (Requires Setup)
+- **Draggable window** showing all your saved field data
+- **Click to copy** any value to clipboard for pasting elsewhere
+- **External use** - copy data to other applications outside your browser
+- **Always accessible** - floating window stays on top when needed
 
 ### Privacy First
 - **All data stays on your device** - never uploaded to the cloud
@@ -49,11 +56,13 @@ Intelligent Chrome extension for universal form filling. Built by someone who fi
 3. **Right-click on form fields** - see your data options
 4. **Start filling forms instantly** - no configuration needed
 
-### Optional Setup (2 minutes)
+### Optional Setup for Context Menu & Floating Panel (2 minutes)
 1. **Right-click the FormWise icon** → select "Options"
 2. **Enter your information** - email, name, phone, address
 3. **Add custom fields** - company, job title, or anything you use regularly
 4. **Drag to reorder** - organize fields how you prefer them
+
+**Note:** Auto-fill works without any setup. This configuration is only needed for the context menu (right-click) and floating panel features.
 
 ## ✅ What Works
 
