@@ -79,7 +79,7 @@ FormWise works with **95% of websites** that use standard web forms:
 ### Built by a Power User
 - **50+ forms filled daily** - real-world usage by the developer
 - **Hundreds of websites tested** - including tricky competition sites
-- **2+ hours saved daily** - proven time savings
+- **Significant time savings** - especially for frequent form fillers
 - **Competition community approved** - tested by fellow form-fillers
 
 ### Proven Results
